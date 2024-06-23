@@ -1,0 +1,6 @@
+{
+  "parent": "vampirism:item/umbrella",
+  "textures": {
+    "0": "useful_vampires:item/green_umbrella"
+  }
+}

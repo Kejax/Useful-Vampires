@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "CCC",
+    " R ",
+    " R "
+  ],
+  "key": {
+    "C": {
+      "item": "minecraft:blue_carpet"
+    },
+    "R": {
+      "item": "useful_vampires:umbrella_rod"
+    }
+  },
+  "result": {
+    "item": "useful_vampires:blue_umbrella"
+  },
+  "show_notification": true
+}

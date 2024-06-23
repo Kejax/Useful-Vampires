@@ -1,0 +1,14 @@
+{
+  "required": true,
+  "minVersion": "0.8",
+  "package": "net.kejax.useful_vampires.mixin",
+  "compatibilityLevel": "JAVA_8",
+  "refmap": "Useful-Vampires.refmap.json",
+  "mixins": [
+  ],
+  "client": [
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}
