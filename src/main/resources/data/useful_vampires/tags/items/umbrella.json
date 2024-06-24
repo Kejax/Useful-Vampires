@@ -1,6 +1,21 @@
 {
   "values": [
     "useful_vampires:black_umbrella",
-    "useful_vampires:red_umbrella"
+    "useful_vampires:red_umbrella",
+    "useful_vampires:blue_umbrella",
+    "useful_vampires:brown_umbrella",
+    "useful_vampires:cyan_umbrella",
+    "useful_vampires:gray_umbrella",
+    "useful_vampires:green_umbrella",
+    "useful_vampires:light_blue_umbrella",
+    "useful_vampires:light_gray_umbrella",
+    "useful_vampires:lime_umbrella",
+    "useful_vampires:magenta_umbrella",
+    "useful_vampires:orange_umbrella",
+    "useful_vampires:pink_umbrella",
+    "useful_vampires:purple_umbrella",
+    "useful_vampires:suspicious_umbrella",
+    "useful_vampires:white_umbrella",
+    "useful_vampires:yellow_umbrella"
   ]
 }
